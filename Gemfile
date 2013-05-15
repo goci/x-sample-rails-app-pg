@@ -7,7 +7,9 @@ gem 'rails'
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
-gem 'pg'
+group :database do
+  gem 'pg'
+end
 
 
 # Gems used only for assets and not required

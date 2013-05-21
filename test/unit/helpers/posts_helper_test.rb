@@ -2,7 +2,7 @@ require 'test_helper'
 
 class PostsHelperTest < ActionView::TestCase
   test "the false" do
-    puts "From Burger"
+    puts "BURGER"
      assert true
    end
 end

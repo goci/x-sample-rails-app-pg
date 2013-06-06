@@ -4,4 +4,3 @@ add burger
  
 zinger burger
 
-foobar

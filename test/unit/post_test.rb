@@ -1,8 +1,7 @@
 require 'test_helper'
 
 class PostTest < ActiveSupport::TestCase
-  test "the one" do
-    puts "MASTER"
+  test "the truth" do
     assert true
   end
 end

@@ -1,2 +1,2 @@
 azingaro.
-
+bin

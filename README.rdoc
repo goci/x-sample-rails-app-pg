@@ -1,3 +1,2 @@
 azingaro.
 bin
-bas
